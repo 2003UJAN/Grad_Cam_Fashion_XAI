@@ -1,2 +1,2 @@
-# Grad_Cam_Fashion_XA
+# Grad_Cam_Fashion_XAI
 
